@@ -1,1 +1,2 @@
 # Calculator
+This is a calculator which perform basic functionalities like addition, subtraction, multiplication and division. I added some more functionalities like factorial of a number, power calculation, square of a number, mod of a number, multiplication by pi. We can add, multiply, subtract more than one number at a time. This is very basic calculator using the Python GUI 'Tkinter'. We can add more functionalities like sin, cos, log, root of a number etc. as per need. Hope you all will like this project.
